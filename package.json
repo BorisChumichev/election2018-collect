@@ -1,0 +1,21 @@
+{
+  "name": "election-collect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "JSONStream": "^1.3.2",
+    "dotenv": "^4.0.0",
+    "mongodb": "^3.0.1",
+    "ramda": "^0.25.0",
+    "stream-to-mongo-db": "^1.1.0",
+    "twitter-stream-channels": "^1.0.0",
+    "vkflow": "^1.0.0"
+  }
+}
